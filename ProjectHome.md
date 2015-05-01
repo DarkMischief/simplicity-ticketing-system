@@ -1,0 +1,1 @@
+A simple system for managing support tickets within an intranet. This is a small, spare time project I am working on out of boredom and a desire to have a working system at any administrator's disposal.
